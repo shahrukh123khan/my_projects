@@ -7,3 +7,9 @@ sy,sm,sd=int(today[0:4]),int(today[5:7]),int(today[8:10])
 #fm=sm-um
 fy=sy-uy
 print("your age is : ",fy)
+def show_data():
+  x=10
+  y=20
+  print("numbers are :",x,y)
+show_data()  
+  
