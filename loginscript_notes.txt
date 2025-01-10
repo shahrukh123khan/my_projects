@@ -1,0 +1,58 @@
+vmtransport = ssh_connection.get_transport()
+Retrieves the transport object: The get_transport method from paramiko returns 
+the transport layer for the SSH connection, which is used to manage the connection and open channels.
+
+
+vmchannel = vmtransport.open_channel("direct-tcpip", dest_addr, local_addr, timeout=timeout)
+open_channel creates a channel over the SSH transport for a direct TCP/IP connection.
+"direct-tcpip" specifies the type of channel, which allows forwarding TCP connections.
+dest_addr is where the connection is made to on the target server.
+local_addr is the local endpoint of the connection.
+timeout specifies how long to wait before timing out the attempt to open the channel.
+
+
+ssh = paramiko.SSHClient()
+Create SSHClient Instance: Initializes a new SSHClient object from the paramiko library. 
+This object will be used to manage the SSH connection.
+
+
+
+ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+Set Host Key Policy: Configures how the SSH client should handle host keys:
+AutoAddPolicy automatically adds the host key of the server to the list of known hosts.
+This is useful for avoiding manual confirmation of new host keys. Note: This policy is
+convenient but less secure because it trusts any host key without verification. For 
+production code, you might want to use a more secure policy or verify the host key manually.
+
+
+ssh.connect(server_credentials['ip'], 
+            username=server_credentials['username'], 
+            password=server_credentials['password'], 
+            timeout=timeout, sock=tunnel)
+
+Establish SSH Connection: Uses the connect method to establish an SSH connection 
+to the server with the provided credentials and optional parameters:
+
+thread.start()
+thread.join(timeout=timeout)     
+    attempts = 5
+    while attempts > 0:
+    if thread.is_alive():
+        print("Command execution timed out")
+        attempts -= 1
+        time.sleep(2)
+    else:
+        output = thread.output
+        print('##########output is here ###################->',output)
+        return True, output
+            
+thread.is_alive  : thread.is_alive() returns True if the thread is currently running, 
+and False if it has finished execution or hasn’t started yet
+in this funtion we are checking that the htread is runing or not 
+
+
+purpose of invoke_shell   (shell = self.client.invoke_shell())
+Interactive Sessions: invoke_shell is used to open an interactive shell session on the
+remote server.Unlike running a single command with exec_command, which executes
+a command and returns the result,invoke_shell opens a persistent session where you
+can send multiple commands and interact with the shell as if you were physically present at the terminal.
