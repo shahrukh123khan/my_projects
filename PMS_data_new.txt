@@ -1,0 +1,332 @@
+data: [
+              {
+                id: "0.0",
+                parent: "",
+                name: "VIL",
+
+              },
+              {
+                id: "1.1",
+                parent: "0.0",
+                name: "ACCESS",
+                color:"#FF8E75"
+
+              },
+              {
+                id: "1.2",
+                parent: "0.0",
+                name: "CORE",
+                color:"#5F004B"
+
+              },
+              {
+                id: "1.3",
+                parent: "0.0",
+                name: "OPTICAL",
+
+                 color:"#FFC600"
+              },
+              {
+                id: "1.4",
+                parent: "0.0",
+                name: "IN/VAS",
+                color:"#2F3043"
+              },
+              {
+                id: "1.5",
+                parent: "0.0",
+                name: "IP",
+                color:"#CADEF8"
+              },
+              {
+                id: "2.1",
+                parent: "1.1",
+                name: "Eastern Africa",
+                value: 20,
+
+              },
+              {
+                id: "2.5",
+                parent: "1.1",
+                name: "Western Africa",
+                value: 20,
+
+              },
+              {
+                id: "2.3",
+                parent: "1.1",
+                name: "North Africa",
+                value: 20,
+
+              },
+              {
+                id: "2.2",
+                parent: "1.1",
+                name: "Central Africa",
+                value: 20,
+
+              },
+              {
+                id: "2.4",
+                parent: "1.1",
+                name: "South America",
+                value: 20,
+
+              },
+              {
+                id: "2.9",
+                parent: "1.2",
+                name: "South America",
+                value: 25,
+
+              },
+              {
+                id: "2.8",
+                parent: "1.2",
+                name: "Northern America",
+                value: 25,
+
+              },
+              {
+                id: "2.7",
+                parent: "1.2",
+                name: "Central America",
+                value: 25,
+
+              },
+              {
+                id: "2.6",
+                parent: "1.2",
+                name: "Caribbean",
+                value: 25,
+
+              },
+              {
+                id: "2.13",
+                parent: "1.3",
+                name: "Southern Asia",
+                value: 20,
+
+              },
+              {
+                id: "2.11",
+                parent: "1.3",
+                name: "Eastern Asia",
+                value: 20,
+
+              },
+              {
+                id: "2.12",
+                parent: "1.3",
+                name: "South-Eastern Asia",
+                value: 20,
+
+              },
+              {
+                id: "2.14",
+                parent: "1.3",
+                name: "Western Asia",
+                value: 20,
+
+              },
+              {
+                id: "2.10",
+                parent: "1.3",
+                name: "Central Asia",
+                value: 20,
+
+              },
+              {
+                id: "2.15",
+                parent: "1.4",
+                name: "Eastern Europe",
+                value: 25,
+
+              },
+              {
+                id: "2.16",
+                parent: "1.4",
+                name: "Northern Europe",
+                value: 25,
+
+              },
+              {
+                id: "2.17",
+                parent: "1.4",
+                name: "Southern Europe",
+                value: 95,
+
+              },
+              {
+                id: "2.18",
+                parent: "1.4",
+                name: "Western Europe", value: 25,
+
+              },
+              {
+                id: "2.19",
+                parent: "1.5",
+                name: "Australia and New Zealand", value: 25,
+
+              },
+
+                            {
+                id: "2.20",
+                parent: "1.5",
+                name: "Melanesia", value: 25,
+
+              },
+
+
+              {
+                id: "2.21",
+                parent: "1.5",
+                name: "Micronesia", value: 25,
+
+              },
+              {
+                id: "2.22",
+                parent: "1.5",
+                name: "Polynesia", value: 25,
+
+              },
+
+           ],
+
+
+id      parent   name   color      chatid    
+1        null    vil    #45gy6       0.0
+
+
+
+1 response -- json JSONResponse(
+                    content={
+                        "data": {},
+                        "status": True,
+                        "message": "No record found!",
+                    },
+                    status_code=200,
+                )
+
+2 ne family and ne type mismatch 
+
+3 add new column -- hostname 
+
+4 remove null from latest version string null 
+
+chat 
+add-- object last updated  ; value after list closed 
+give name to list 
+
+
+vlote  nokia      tas version
+vlote  nokia      tas versiion
+vlote  nokia      tas versiion
+vlote  nokia      tas versiion
+sip tr ribborn    sbc version
+sip tr ribborn    sbc version
+sip tr ribborn    sbc version
+sip tr ribborn    sbc version
+vlote  nokia      tas versiion
+volte  mavenir   tas  version
+vlote  nokia      tas versiion
+vlote  nokia      tas versiion
+volte  mavenir   tas  version
+volte  mavenir   tas  version
+volte  mavenir   tas  version
+volte  mavenir   tas  version
+udr    ssb       it   vervion
+udr    ssb       it   vervion
+udr    ssb       it   vervion
+udr    ssb       it   vervion
+
+
+
+[{'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.238.39', 'Version': '7.6.1810(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.254.34', 'Version': '7.6.1810(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.254.33', 'Version': '7.6.1810(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.95.84.34', 'Version': '7.9.2009(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.238.38', 'Version': '7.6.1810(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.252.34', 'Version': '7.9.2009(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.95.98.43', 'Version': 'release8.4.2105'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.95.84.33', 'Version': '7.9.2009(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.252.33', 'Version': '7.9.2009(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.95.98.44', 'Version': 'release8.4.2105'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.200.38', 'Version': 'release8.4.2105'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.200.37', 'Version': 'release8.4.2105'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.95.124.38', 'Version': 'release8.4.2105'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.198.34', 'Version': '7.9.2009(core)'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.95.124.37', 'Version': 'release8.4.2105'}, {'NE Family': 'Paco', 'NE Type': 'SKYVERA_CGF_CGNAT', 'OEM Name': 'MAVENIR_DB', 'Model': None, 'Ip_Address': '10.103.198.33', 'Version': '7.9.2009(core)'}]
+
+
+['23.0.1 (nb20230913) os 7.9.20', '23.0.1 (nb20230913) os 7.9.20', '23.0.1 (nb20230913) os 7.9.20', '23.0.1 (nb20230913) os 7.9.20']
+62
+
+
+
+
+
+['NOK', 'NOK', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64', 'v15.01.02-r000.x86_64']
+22
+
+
+
+
+
+['red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)', 'red hat enterprise linux 8.7 (ootpa)']
+43
+
+
+
+
+
+['SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0', 'SCZ9.0.0']
+8
+
+
+
+
+
+['SCZ8.1.0', 'SCZ8.1.0', 'SCZ8.1.0', 'SCZ8.1.0', 'SCZ8.1.0', 'SCZ8.1.0', 'SCZ8.1.0', 'SCZ8.1.0']
+
+
+ztm assign people 
+engineers know that i have to finish 10 sites (circuit ids in this week)
+out 0f 10 7 is completeted and 1 has some problem then revome it from that week scheduler
+
+on the basis of no of faults if he has 2 or < 2 faults in April and may then in the fiert week of June its pm schedulein in first week immedistely  fault in the send ubr fault fault by ubr platefarm
+ek circuit me pichle 3 mahine me 2 se jada fault agr aa gye to to highet priority p1   top 50 p2 
+
+plateform data and all data  in hpsm
+p1 t0 -90 days jitni br fault aaya agr 2 k upr rha tha consider krna hai hai 
+
+
+jo p1 me nhi aaya to top 50 pe hai to aap usko lenge top 50 categorize and not in p1 then it is taken to schedule immediately
+
+
+filter on sa nsa alarms and piotirizeall the cuicuit ids to p1 and for 
+fiter for p2 and that is not in p1 consider to p2 from inventory 
+
+p3 --rest of all
+
+p1---fault p2 --top 50 customer  refer fra all from inventory
+
+p3 -- rest of all  
+
+point 4 --
+
+cd /opt/web-app/pms
+cd ..plate --ubr cirid -->2 
+
+ot --open topology .
+
+users/bin/python
+
+Server: 10.19.71.176
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

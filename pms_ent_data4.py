@@ -256,7 +256,7 @@ final_df['Priority'] = final_df.apply(
                  'Regular',
     axis=1
 )
-    
+
 final_df.to_excel(output_file, sheet_name='Master_File_ENT', index=False)
 
 print(f"Data has been written to {output_file}.")

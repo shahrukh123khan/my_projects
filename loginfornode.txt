@@ -1,0 +1,233 @@
+---------Login Credential For Node -----------------------
+
+User : ssh chatbotadm@10.40.55.186
+
+pass  :  Chatbot!234
+
+base server _ISE user (35/36)
+
+ssh IPINMRPA@10.113.249.35
+
+pass  : Anf!eld#9
+
+
+device login  
+
+1 SN  snenrc  SNrc!&2@23
+
+node pass .
+
+2 ISEuser  :  ssh snenrc_uhc@10.220.56.40
+
+new : VOda#12345
+
+
+username===        rtp99
+password==                  yt_xk39b
+
+username===ssh snenrc@10.80.68.36
+password  ====P@ssw0rd2023
+
+
+echo "P@ssw0rd2023" | sudo -S ssh snenrc@10.80.68.36
+
+
+10.103.199.214    snenrc   Snrc$#21
+ 
+
+
+gngpdns
+usrname ==ssh SNENRC@10.174.128.70
+password==V!Cisco@3202
+
+
+gi dns
+
+usrname ==ssh SNENRC@10.174.232.65
+password==Vilaut@123
+
+ribbon dsc
+
+usrname ==ssh snenrc@10.80.68.37
+password==P@ssw0rd2023
+
+enterprise 
+
+usrname ==ssh admin@10.209.53.46
+password==bDNoS@dj7kgwlh#6BqXMiG
+
+
+ssh snenrc@10.95.130.2
+
+usrname ==ssh SNENRC@192.168.192.4  
+pass word  ====  eYFpl5TYt@iYDv#Xf6XKA
+
+pass == eYFpl5TYt@iYDv#Xf6XKA
+
+F5 
+usrname ==ssh snenrc@10.174.168.148 10.95.91.84
+ 
+pass ====== Voda@123
+
+usrname ==ssh SNENRC@10.95.91.84
+
+
+
+ 
+
+
+-
+ssh snenrc_uhc@63.130.112.72
+
+ssh snenrc_uhc@63.130.112.66
+
+
+
+cww node has issue not connecting 
+
+ssh: connect to host 63.130.112.72 port 22: Network is unreachable
+
+cen has connectiontime out manually node issue
+
+cww cen flds isp 
+	
+
+
+
+Name: Tarun Upadhyay
+Emp Id: COR3383472
+Email: tarun.upadhyay@vodafoneidea.com
+SerialNumber: 5CD3522Y8J
+Request id: REQ000012851201
+Work order : WO0000015647020
+
+https://meet.google.com/mgn-vhcr-sed
+
+user rolls and permission . roll with circle id 
+nssid --sub zone 
+
+wfmsuserid vmsuserid
+
+
+nohup uvicorn app.main:app --host 0.0.0.0 --port 8000 &
+
+nohup uvicorn app.main:app --host 10.19.71.175 --port 8000 &
+
+uvicorn app.main:app --host 10.19.71.175 --port 8082 
+
+
+changing log file 
+nohup uvicorn app.main:app --host 0.0.0.0 --port 8000 > uvicorn.log 2>&1 &
+ 
+stoping the server 
+ps aux | grep uvicorn
+kill <PID>
+
+
+default 20 zones , passing circle id (filter)  is ciclre id then a/c to that zones anme  optinaol circle id k a/c if seach key then search key k according 
+
+zone name filter serchkey starts with 
+circle id filter
+
+
+http://localhost:3005/pms/inventory
+
+
+
+
+
+
+
+{
+    "page_number": 2,
+    "page_size": 10,
+    "domaintype_name": "enterprise"
+}
+
+
+
+
+
+
+
+
+
+
+
+Server: 10.19.71.176 
+User: ftpuser
+Password : RTOPL89034th@
+New Password : RTOPL89034th!
+Key : PL89034th$
+Path: /home/ftpuser/input_files/pms
+
+
+
+subzone ac to ztm . 
+based on subzone zone releetd to zone .
+circle to zone . 
+reverse . 
+
+
+
+1 data making for mobility category .
+2 insert this data to db .
+3 read and insert data for cxx .
+4 read and insert data for uwfm .
+5 query for alarm and kpi .
+6 query for zone , subzone and users data .
+
+
+master db alarm -- logic which to take 
+ip_alarms -- insert in it from hadoop
+
+
+
+Meeting with Mayank Tarun and Trapti for the pms discussion for the 
+scheduling of task , tickect and apis (2 Hrs).
+Worked on scheduling Api created models and worked on query creations .
+Meeting with trapti for the database changes .
+
+
+nssid,engineer id cre at and end date 
+
+
+
+
+Server: 10.19.71.176 
+User: ftpuser
+Password : RTOPL89034th@
+New Password : RTOPL89034th!
+Key : PL89034th$
+Path: /home/ftpuser/input_files/pms
+
+
+
+schedule api --
+
+tickect api ---
+
+task api ---
+
+
+p=12/2 =6 . 12/f ==6 . cd=020225 -- now to 6 month 
+cd-today end -within week . current month divide in week .
+
+
+
+s=12/f=6(no)
+
+
+pm tickets --all tickets 
+
+pm tasks --all tasks 
+
+node_model,vendor,
+
+
+Strategic Sites = Critical , TX hub = Major , Access sites = Minor : 7th Nov
+
+
+
+
+

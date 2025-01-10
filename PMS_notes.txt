@@ -1,0 +1,71 @@
+Many circuits are not having circle mapping, Lat/Long, also few circuits are mapped with zero bandwidth.
+
+uttar Pradesh(west)
+orrisa
+Mumbai etc .
+
+
+irreikvbnz
+
+uwfm zone -- sub zone 
+
+dept  --ent ,mobilty and transport 
+
+up west---domai (ent) -- sub zone---ztm
+
+mobility site type 
+
+category --- 
+
+domain ---
+
+he is considering the dwdm in 8,9 i need to consider the all in same but except ola 
+
+cateort 4--- ola plus existing 
+
+cat 3--- ola plus existing 
+
+
+IPMPLS-Access 
+ipmpls-Aggregation
+ipmpls-Pre-AGG
+ipmpls-Core
+
+
+RAN-BSC   sub BSC  
+RAN-BTS  --2g-5g
+
+
+Acquired Knowledge about the  Environment,Its Functionalities and Start developing the  modules.
+Development and Customization of  Modules for different Projects . Creating APIS for the Projects .
+Worked on Automation Project for developing the on line Binding app Using python selenium , and custom  and other python libraries
+
+
+1 download the excel file or csv file from the server .
+
+2 insert the data into the tables  . 
+
+3 make relationship b/w the tables .
+
+4 fire the required query based on the condition .
+
+5 generate the output .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
